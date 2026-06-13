@@ -29,7 +29,7 @@ Use the tool to generate and download your `comics_data.json`.
 ### Step 2: Open the viewer
 
 Go to:
-https://hamzanasir0.github.io/hammycomic/
+https://pkhammy.github.io/hammycomic/
 
 ### Step 3: Upload your JSON
 
